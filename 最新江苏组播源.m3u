@@ -1,0 +1,291 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1HD.png",CCTV1HD
+http://192.168.1.1:7088/udp/239.49.8.19:9614
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2HD.png",CCTV2HD
+http://192.168.1.1:7088/udp/239.49.8.50:9802
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3HD.png",CCTV3HD
+http://192.168.1.1:7088/udp/239.49.8.74:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4HD.png",CCTV4HD
+http://192.168.1.1:7088/udp/239.49.8.51:9806
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5HD.png",CCTV5HD
+http://192.168.1.1:7088/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6HD.png",CCTV6HD
+http://192.168.1.1:7088/udp/239.49.8.76:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7HD.png",CCTV7HD
+http://192.168.1.1:7088/udp/239.49.0.126:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8HD.png",CCTV8HD
+http://192.168.1.1:7088/udp/239.49.8.77:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10HD.png",CCTV10HD
+http://192.168.1.1:7088/udp/239.49.8.54:9818
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11HD.png",CCTV11HD
+http://192.168.1.1:7088/udp/239.49.0.127:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12HD.png",CCTV12HD
+http://192.168.1.1:7088/udp/239.49.8.55:9822
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13HD.png",CCTV13HD
+http://192.168.1.1:7088/udp/239.49.8.109:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV14HD.png",CCTV14HD
+http://192.168.1.1:7088/udp/239.49.8.56:9826
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV%E9%9F%B3%E4%B9%90HD.png",CCTV音乐HD
+http://192.168.1.1:7088/udp/239.49.0.128:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV16HD.png",CCTV16HD
+http://192.168.1.1:7088/udp/239.49.8.31:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17HD.png",CCTV17HD
+http://192.168.1.1:7088/udp/239.49.8.52:9810
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5HD.png",CCTV5HD
+http://192.168.1.1:7088/udp/239.49.8.18:9610
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E4%BF%84%E8%AF%ADHD.png",CGTN俄语HD
+http://192.168.1.1:7088/udp/239.49.0.111:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV1.png",CCTV1
+http://192.168.1.1:7088/udp/239.49.0.1:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV2.png",CCTV2
+http://192.168.1.1:7088/udp/239.49.0.2:8008
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV3.png",CCTV3
+http://192.168.1.1:7088/udp/239.49.0.3:9566
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4.png",CCTV4
+http://192.168.1.1:7088/udp/239.49.0.4:8024
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV5.png",CCTV5
+http://192.168.1.1:7088/udp/239.49.0.5:9570
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV6.png",CCTV6
+http://192.168.1.1:7088/udp/239.49.0.6:9574
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV7.png",CCTV7
+http://192.168.1.1:7088/udp/239.49.8.126:8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV8.png",CCTV8
+http://192.168.1.1:7088/udp/239.49.0.8:9578
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV9HD.png",CCTV9HD
+http://192.168.1.1:7088/udp/239.49.8.53:9814
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV10.png",CCTV10
+http://192.168.1.1:7088/udp/239.49.0.10:8072
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV11.png",CCTV11
+http://192.168.1.1:7088/udp/239.49.0.11:8080
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV12.png",CCTV12
+http://192.168.1.1:7088/udp/239.49.0.12:8088
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV%E6%96%B0%E9%97%BB.png",CCTV新闻
+http://192.168.1.1:7088/udp/239.49.0.13:8096
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV%E5%B0%91%E5%84%BF.png",CCTV少儿
+http://192.168.1.1:7088/udp/239.49.0.14:8104
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV%E9%9F%B3%E4%B9%90.png",CCTV音乐
+http://192.168.1.1:7088/udp/239.49.0.15:8112
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN.png",CGTN
+http://192.168.1.1:7088/udp/239.49.0.9:8064
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV17.png",CCTV17
+http://192.168.1.1:7088/udp/239.49.0.7:8048
+
+# 新增央视专业频道
+#EXTINF:-1 group-title="央视",CCTV-兵器科技
+http://192.168.1.1:7088/udp/239.49.8.88:8000
+#EXTINF:-1 group-title="央视",CCTV-第一剧场
+http://192.168.1.1:7088/udp/239.49.8.94:8000
+#EXTINF:-1 group-title="央视",CCTV-风云剧场
+http://192.168.1.1:7088/udp/239.49.8.89:8000
+#EXTINF:-1 group-title="央视",CCTV-风云音乐
+http://192.168.1.1:7088/udp/239.49.8.92:8000
+#EXTINF:-1 group-title="央视",CCTV-风云足球
+http://192.168.1.1:7088/udp/239.49.8.85:8000
+#EXTINF:-1 group-title="央视",CCTV-高尔夫·网球
+http://192.168.1.1:7088/udp/239.49.8.86:8000
+#EXTINF:-1 group-title="央视",CCTV-怀旧剧场
+http://192.168.1.1:7088/udp/239.49.8.91:8000
+#EXTINF:-1 group-title="央视",CCTV-女性时尚
+http://192.168.1.1:7088/udp/239.49.8.93:8000
+#EXTINF:-1 group-title="央视",CCTV-世界地理
+http://192.168.1.1:7088/udp/239.49.8.87:8000
+#EXTINF:-1 group-title="央视",CCTV-电视指南
+http://192.168.1.1:7088/udp/239.49.8.84:8000
+#EXTINF:-1 group-title="央视",CCTV-央视台球
+http://192.168.1.1:7088/udp/239.49.8.32:8000
+#EXTINF:-1 group-title="央视",CCTV-央视文化精品
+http://192.168.1.1:7088/udp/239.49.8.90:8000
+#EXTINF:-1 group-title="央视",CCTV-16-4K奥林匹克
+http://192.168.1.1:7088/udp/239.49.0.109:8000
+#EXTINF:-1 group-title="央视",CCTV-12社会与法
+http://192.168.1.1:7088/udp/239.49.8.135:6000
+
+# 卫视频道
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86HD.png",江苏卫视HD
+http://192.168.1.1:7088/udp/239.49.8.16:9602
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://192.168.1.1:7088/udp/239.49.8.138:6000
+#EXTINF:-1 group-title="卫视",东方卫视
+http://192.168.1.1:7088/udp/239.49.8.140:6000
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://192.168.1.1:7088/udp/239.49.8.139:6000
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://192.168.1.1:7088/udp/239.49.8.204:6000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD.png",北京卫视HD
+http://192.168.1.1:7088/udp/239.49.8.11:9414
+#EXTINF:-1 group-title="卫视",北京卫视
+http://192.168.1.1:7088/udp/239.49.8.11:9414
+#EXTINF:-1 group-title="卫视",北京卫视4K
+http://192.168.1.1:7088/udp/239.49.0.253:8000
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://192.168.1.1:7088/udp/239.49.8.149:6000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86HD.png",东南卫视HD
+http://192.168.1.1:7088/udp/239.49.8.112:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD.png",甘肃卫视HD
+http://192.168.1.1:7088/udp/239.49.0.250:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png",广东卫视HD
+http://192.168.1.1:7088/udp/239.49.8.13:9422
+#EXTINF:-1 group-title="卫视",广东卫视4K
+http://192.168.1.1:7088/udp/239.49.1.24:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png",广西卫视HD
+http://192.168.1.1:7088/udp/239.49.8.10:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86HD.png",贵州卫视HD
+http://192.168.1.1:7088/udp/239.49.8.49:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.png",海南卫视HD
+http://192.168.1.1:7088/udp/239.49.8.83:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD.png",河北卫视HD
+http://192.168.1.1:7088/udp/239.49.8.114:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD.png",河南卫视HD
+http://192.168.1.1:7088/udp/239.49.8.29:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png",黑龙江卫视HD
+http://192.168.1.1:7088/udp/239.49.8.14:9426
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD.png",湖北卫视HD
+http://192.168.1.1:7088/udp/239.49.8.8:9632
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD.png",湖南卫视HD
+http://192.168.1.1:7088/udp/239.49.8.12:9418
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD.png",吉林卫视HD
+http://192.168.1.1:7088/udp/239.49.8.113:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png",江西卫视HD
+http://192.168.1.1:7088/udp/239.49.8.111:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD.png",辽宁卫视HD
+http://192.168.1.1:7088/udp/239.49.8.48:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86HD.png",内蒙古卫视HD
+http://192.168.1.1:7088/udp/239.49.0.180:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png",山东卫视HD
+http://192.168.1.1:7088/udp/239.49.8.7:9306
+#EXTINF:-1 group-title="卫视",山西卫视
+http://192.168.1.1:7088/udp/239.49.0.67:8528
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://192.168.1.1:7088/udp/239.49.0.233:8000
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://192.168.1.1:7088/udp/239.49.8.145:6000
+#EXTINF:-1 group-title="卫视",深圳卫视4K
+http://192.168.1.1:7088/udp/239.49.1.27:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png",四川卫视HD
+http://192.168.1.1:7088/udp/239.49.8.110:8000
+#EXTINF:-1 group-title="卫视",天津卫视
+http://192.168.1.1:7088/udp/239.49.8.148:6000
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://192.168.1.1:7088/udp/239.49.0.245:8000
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://192.168.1.1:7088/udp/239.49.0.178:8000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86HD.png",云南卫视HD
+http://192.168.1.1:7088/udp/239.49.0.177:8000
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://192.168.1.1:7088/udp/239.49.0.171:8000
+
+# 江苏本地频道
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82HD.png",江苏城市HD
+http://192.168.1.1:7088/udp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BAHD.png",江苏综艺HD
+http://192.168.1.1:7088/udp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2HD.png",江苏休闲体育HD
+http://192.168.1.1:7088/udp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86HD.png",江苏影视HD
+http://192.168.1.1:7088/udp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9AHD.png",优漫卡通HD
+http://192.168.1.1:7088/udp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E6%96%B0%E9%97%BBHD.png",江苏新闻HD
+http://192.168.1.1:7088/udp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9HD.png",好享购物HD
+http://192.168.1.1:7088/udp/239.49.8.121:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2HD.png",江苏教育HD
+http://192.168.1.1:7088/udp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8E%AF%E7%90%83%E8%B4%AD%E7%89%A9HD.png",环球购物HD
+http://192.168.1.1:7088/udp/239.49.8.123:8000
+#EXTINF:-1 group-title="江苏",江苏国际
+http://192.168.1.1:7088/udp/239.49.0.22:8168
+
+# 南京本地频道
+#EXTINF:-1 group-title="南京",南京新闻综合
+http://192.168.1.1:7088/udp/239.49.0.25:8192
+#EXTINF:-1 group-title="南京",南京科教
+http://192.168.1.1:7088/udp/239.49.0.183:9434
+#EXTINF:-1 group-title="南京",南京生活
+http://192.168.1.1:7088/udp/239.49.0.184:9438
+#EXTINF:-1 group-title="南京",南京信息
+http://192.168.1.1:7088/udp/239.49.0.75:8000
+#EXTINF:-1 group-title="南京",南京影视
+http://192.168.1.1:7088/udp/239.49.0.24:8000
+#EXTINF:-1 group-title="南京",南京娱乐
+http://192.168.1.1:7088/udp/239.49.8.229:6000
+#EXTINF:-1 group-title="南京",南京少儿
+http://192.168.1.1:7088/udp/239.49.8.230:6000
+#EXTINF:-1 group-title="南京",南京十八生活
+http://192.168.1.1:7088/udp/239.49.0.26:8200
+
+# 地市频道
+#EXTINF:-1 group-title="地市",苏州-5
+http://192.168.1.1:7088/udp/239.49.8.116:8000
+#EXTINF:-1 group-title="地市",泰州-1
+http://192.168.1.1:7088/udp/239.49.0.215:8000
+#EXTINF:-1 group-title="地市",盐城-1
+http://192.168.1.1:7088/udp/239.49.8.30:8000
+#EXTINF:-1 group-title="地市",宿豫综合
+http://192.168.1.1:7088/udp/239.49.0.136:9976
+
+# 专业频道
+#EXTINF:-1 group-title="专业",生活时尚
+http://192.168.1.1:7088/udp/239.49.8.40:8004
+#EXTINF:-1 group-title="专业",游戏风云
+http://192.168.1.1:7088/udp/239.49.8.41:8012
+#EXTINF:-1 group-title="专业",动漫秀场
+http://192.168.1.1:7088/udp/239.49.8.43:8028
+#EXTINF:-1 group-title="专业",乐游
+http://192.168.1.1:7088/udp/239.49.8.44:8036
+#EXTINF:-1 group-title="专业",欢笑剧场-4K
+http://192.168.1.1:7088/udp/239.49.8.106:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png",书画频道
+http://192.168.1.1:7088/udp/239.49.0.123:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png",财富天下
+http://192.168.1.1:7088/udp/239.49.0.166:9322
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8C%B6HD.png",茶频道
+http://192.168.1.1:7088/udp/239.49.0.146:8000
+#EXTINF:-1 group-title="专业",金鹰纪实
+http://192.168.1.1:7088/udp/239.49.8.79:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93HD.png",快乐垂钓
+http://192.168.1.1:7088/udp/239.49.0.114:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png",先锋乒羽
+http://192.168.1.1:7088/udp/239.49.0.145:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%A2%A8%E5%9B%ADHD.png",梨园频道
+http://192.168.1.1:7088/udp/239.49.8.193:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8CHD.png",武术世界
+http://192.168.1.1:7088/udp/239.49.0.205:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93HD.png",文物宝库
+http://192.168.1.1:7088/udp/239.49.0.209:8000
+#EXTINF:-1 group-title="专业",金色学堂
+http://192.168.1.1:7088/udp/239.49.0.31:8240
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV1HD.png",CETV-1
+http://192.168.1.1:7088/udp/239.49.8.115:8000
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV2.png",CETV-2
+http://192.168.1.1:7088/udp/239.49.0.71:8560
+#EXTINF:-1 group-title="专业" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV4HD.png",CETV-4
+http://192.168.1.1:7088/udp/239.49.0.125:8000
+#EXTINF:-1 group-title="专业",山东教育卫视
+http://192.168.1.1:7088/udp/239.49.0.235:8000
+#EXTINF:-1 group-title="专业",金鹰卡通
+http://192.168.1.1:7088/udp/239.49.8.33:8000
+
+# 其他频道（保留原有分类）
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png",第一剧场
+http://192.168.1.1:7088/udp/239.49.0.44:8000
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png",电视指南
+http://192.168.1.1:7088/udp/239.49.0.161:9282
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png",风云足球
+http://192.168.1.1:7088/udp/239.49.0.153:9218
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png",高尔夫·网球
+http://192.168.1.1:7088/udp/239.49.0.154:9226
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png",世界地理
+http://192.168.1.1:7088/udp/239.49.0.155:9234
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png",兵器科技
+http://192.168.1.1:7088/udp/239.49.0.160:9274
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png",风云剧场
+http://192.168.1.1:7088/udp/239.49.0.152:9210
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%AE%E8%A7%86%E7%B2%BE%E5%93%81.png",央视文化精品
+http://192.168.1.1:7088/udp/239.49.0.156:9242
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%AE%E8%A7%86%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png",怀旧剧场
+http://192.168.1.1:7088/udp/239.49.0.157:9250
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png",风云音乐
+http://192.168.1.1:7088/udp/239.49.0.151:9202
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png",女性时尚
+http://192.168.1.1:7088/udp/239.49.0.159:9266
